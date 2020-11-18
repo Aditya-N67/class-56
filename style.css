@@ -1,0 +1,11 @@
+img{
+height: 420px;
+width: 420px;
+border-style:dotted;
+border-color: dodgerblue;
+ border-width: medium;
+}
+body{
+text-align: center;
+background-color: crimson;    
+}
